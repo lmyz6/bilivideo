@@ -1,15 +1,16 @@
 # bilivideo
 B站视频解析，仅供学习代码
+
 # 开源代码须知
 
 请遵循当地政府有关条例进行使用，本代码仅供学习使用，使用其造成不良后果的，后果自负
 
 关于代码有关解释，请跳转
 
-[lmyz6的小窝]: https://lmyz6.cn
+https://lmyz6.cn
 
 感谢小冰的API链接长期支持
 
-[小冰API]: https://xiaobapi.top/
+https://xiaobapi.top/
 
 API可能会产生失效，欢迎来lmyz6我的博客进行反馈，会及时修改相关代码
